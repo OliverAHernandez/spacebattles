@@ -1,3 +1,4 @@
+
 class Ammunition:
     def __init__(self,ammo_speed, ammo_image,ammo_size, ammo_damage):
         self.ammo_speed = ammo_speed
@@ -19,4 +20,3 @@ class Ammunition:
         self.ammo_speed = 'changed'
 
 
-    def
